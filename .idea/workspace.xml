@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff705b1f-0016-45d5-8171-faa80f8b41de" name="Default Changelist" comment="fix i hope">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCC_Enterprise" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NCC_Enterprise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/t11/PriceList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/t11/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/t11/PriceListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/t11/PriceList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/t11/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/t11/PriceListTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="ff705b1f-0016-45d5-8171-faa80f8b41de" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +28,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -131,6 +117,21 @@
       <option name="presentableId" value="Default" />
       <updated>1583990435492</updated>
     </task>
+    <task id="LOCAL-00001" summary="fix i hope&#10;access specifiers r not fixed yet">
+      <created>1584231099858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584231099858</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix i hope&#10;access specifiers r not fixed yet">
+      <created>1584231167957</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584231167957</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +147,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix i hope" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix i hope" />
+    <MESSAGE value="fix i hope&#10;access specifiers r not fixed yet" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix i hope&#10;access specifiers r not fixed yet" />
   </component>
 </project>
